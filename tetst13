@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your trusted source for health tips, nutrition advice, and wellness solutions. Live healthier, feel stronger, stay inspired.">
+  <title>Health & Wellness | Your Path to a Better Life</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <h1 class="logo">Health<span>Life</span></h1>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Blog</a>
+        <a href="#">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-text">
+      <h1>Live Healthier. Feel Stronger. Stay Inspired.</h1>
+      <p>Your trusted source for health tips, nutrition advice, and wellness solutions.</p>
+      <a href="#" class="btn-primary">Start Your Wellness Journey</a>
+      <a href="#" class="btn-secondary">Book a Free Consultation</a>
+    </div>
+  </section>
+
+  <!-- About Preview -->
+  <section class="about">
+    <div class="container">
+      <h2>Your Partner in a Healthy Life</h2>
+      <p>With a focus on holistic well-being, we combine expert advice, natural solutions, and science-backed information to help you achieve your health goals.</p>
+      <a href="#" class="btn-secondary">Learn More</a>
+    </div>
+  </section>
+
+  <!-- Services -->
+  <section class="services">
+    <div class="container">
+      <h2>Our Services</h2>
+      <div class="service-cards">
+        <div class="card">
+          <h3>🥗 Nutrition Coaching</h3>
+          <p>Personalized diet plans & healthy recipes to boost your energy and health.</p>
+        </div>
